@@ -12,3 +12,6 @@ C:\Users\boaky\source\repos\InventoryManagementSystem\InventoryManagementSystem\
 C:\Users\boaky\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
 C:\Users\boaky\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.HeadForm.resources
 C:\Users\boaky\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForms.resources
+C:\Users\boaky\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\boaky\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\boaky\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomersForrm.resources

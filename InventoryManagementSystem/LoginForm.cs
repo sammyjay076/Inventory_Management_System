@@ -43,5 +43,15 @@ namespace InventoryManagementSystem
                 Application.Exit();
             }
         }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPass_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
